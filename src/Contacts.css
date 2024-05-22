@@ -1,0 +1,36 @@
+.contacts-container {
+    padding: 20px;
+  }
+  
+  .contacts-container h1 {
+    color: #ffffff;
+  }
+  
+  .contact-item {
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 20px 0;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .contact-item h2 {
+    margin-bottom: 10px;
+    color: #333333;
+  }
+  
+  .contact-item p {
+    margin: 5px 0;
+    color: #555555;
+  }
+  
+  .contact-item a {
+    color: #3498db;
+    text-decoration: none;
+  }
+  
+  .contact-item a:hover {
+    text-decoration: underline;
+  }
+  
